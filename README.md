@@ -59,8 +59,16 @@ Both males and females will ride bikes are identical times however there are far
 
 ![User Trips by Gender by Weekday Viz](https://user-images.githubusercontent.com/103234661/193255803-6b84e124-cbb3-4d09-9c4f-3c30b4d2c887.png)
 
-Due to sheer volume, every weekday will have far more male bikeriders than female.
+Due to sheer volume, every weekday will have far more male bike riders than female.
 
 ## **Summary**
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+- The best starting locations are identical to the best ending locations for bike rides
+- There is a large majority of male bike riders versus female bike riders
+- The weekdays peak bike riding hours are in the early mornings and evenings when many people are commuting to work
+- The weekends peak bike riding hours are spread throughout from the late morning to late afternoon likely for leisure rather than commuting
+
+Two additional visualizations that I would suggest for future analysis would be:
+
+1. Checkout times by weekday and weekends
+2. Checkout times and total trips per age group within each gender
