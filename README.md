@@ -1,5 +1,20 @@
 # bikesharing
 
+## **Background**
+
+Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
+
+For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
+
+Show the length of time that bikes are checked out for all riders and genders
+Show the number of bike trips for all riders and genders for each hour of each day of the week
+Show the number of bike trips for each type of user and gender for each day of the week.
+Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
+
+## **Purpose**
+
+The purpose of our analysis is to determine if the bikeshare business will be successful in New York City using Tableau visualizations
+
 Create the Checkout Times for Users Viz
 
 ![Checkout Times for Users Viz](https://user-images.githubusercontent.com/103234661/193243619-18d00e57-36e0-4513-a3d2-a9124cde9713.png)
@@ -17,4 +32,21 @@ Create the Trips by Weekday for Each Hour Viz
 
 Create the Trips by Gender (Weekday per Hour) Viz
 
+![Trips by Gender (Weekday per Hour) Viz](https://user-images.githubusercontent.com/103234661/193255440-2ea43ece-08f4-448e-8450-3408823e9c31.png)
+
 Create the User Trips by Gender by Weekday Viz
+
+![User Trips by Gender by Weekday Viz](https://user-images.githubusercontent.com/103234661/193255803-6b84e124-cbb3-4d09-9c4f-3c30b4d2c887.png)
+
+
+The written analysis has the following:
+
+
+Results:
+
+There are at least seven visualizations for the NYC Citibike analysis (7 pt)
+There is a description of the results for each visualization (7 pt)
+
+Summary:
+
+There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
