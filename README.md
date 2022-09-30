@@ -15,31 +15,41 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 The purpose of our analysis is to determine if the bikeshare business will be successful in New York City using Tableau visualizations
 
-Create the Checkout Times for Users Viz
+## **Results**
+
+Link to the Tableau Story: https://public.tableau.com/shared/F596WQNX3?:display_count=n&:origin=viz_share_link
+
+### Top Starting Locations
+
+![Top Starting Locations](https://user-images.githubusercontent.com/103234661/193259997-0bf8f868-853b-40b1-b2a0-b6af2f37ce55.png)
+
+### Top Ending Locations
+
+![Top Ending Locations](https://user-images.githubusercontent.com/103234661/193259981-a7e611c4-864a-467d-ad5c-95cf53021596.png)
+
+### Checkout Times for Users Viz
 
 ![Checkout Times for Users Viz](https://user-images.githubusercontent.com/103234661/193243619-18d00e57-36e0-4513-a3d2-a9124cde9713.png)
 
 
-Create the Checkout Times by Gender Viz
+### Checkout Times by Gender Viz
 
 ![Checkout Times for Genders Viz](https://user-images.githubusercontent.com/103234661/193246370-92de1116-d4dc-4d22-a851-232156cb441d.png)
 
 
-Create the Trips by Weekday for Each Hour Viz
+### Trips by Weekday for Each Hour Viz
 
 ![Trips by Weekday for Each Hour Viz](https://user-images.githubusercontent.com/103234661/193250435-409faca8-346e-4bdc-a054-72149c37e073.png)
 
 
-Create the Trips by Gender (Weekday per Hour) Viz
+### Trips by Gender (Weekday per Hour) Viz
 
 ![Trips by Gender (Weekday per Hour) Viz](https://user-images.githubusercontent.com/103234661/193255440-2ea43ece-08f4-448e-8450-3408823e9c31.png)
 
-Create the User Trips by Gender by Weekday Viz
+### Trips by Gender by Weekday Viz
 
 ![User Trips by Gender by Weekday Viz](https://user-images.githubusercontent.com/103234661/193255803-6b84e124-cbb3-4d09-9c4f-3c30b4d2c887.png)
 
-
-The written analysis has the following:
 
 
 Results:
